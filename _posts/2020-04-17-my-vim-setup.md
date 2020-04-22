@@ -42,6 +42,19 @@ To make your life easier, add this line to your .vimrc and after typing vim you 
 ```
 map <C-n> :NERDTreeToggle<CR>
 ```
+## The NERDCommenter
+
+From the root word "comment", yeah you heard it right! This is all about commenting your code in a VIM'ish way. The first time I use it I was impressed how it know what kind of comment you are executing. Like, if your code is python it will change the comment symbol to `#` and if you change to html it will use the `<!-- -->` symbol.
+
+**How to install**
+1. go to ~/.vim/bundle and git clone `https://github.com/preservim/nerdcommenter.git`.
+2. add this to ~/.vimrc
+```
+filetype plugin on
+set mapleader=","
+```
+changing the mapleader to `,` makes it easy to execute the command. By pressing `, cc` you able comment the code. You find more information [here](https://github.com/preservim/nerdcommenter){:target="_blank"}
+
 
 That's all folks! Just keep on trying as Roy T. Bennett said 
 > "Do not fear failure but rather fear not trying"
