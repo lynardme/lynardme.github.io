@@ -4,7 +4,7 @@ title: "My VIM Setup"
 date: 2020-04-17
 ---
 
-![image-title-here](/assets/mt-ruapehu-desert-drive.jpg){:class="img-responsive"}
+![image-title-here](/assets/images/mt-ruapehu-desert-drive.jpg){:class="img-fluid"}
 *Mt. Ruapehu in Desert Road Scenic Drive*  
 
 When I first tried VIM maybe 5 years ago. I taught that I wouldn't able to learn. It's very hard at first memorizing the keystroke using only keyboard. I remember in my last job, I tried to edit a file using VIM and I messed up, fortunately I remember to quit without saving `q!`. Right now, I can say that I am more confident than 5 years ago.
@@ -35,7 +35,7 @@ filetype plugin indent on
 * mkdir ~/.vim/bundle
 * git clone https://github.com/preservim/nerdtree.git ~/.vim/bundle/nerdtree
 
-![alt text][nerdtree]
+![alt text][nerdtree]{:class="img-fluid"}
 you can find more tutorial from [vimawesome.com](https://vimawesome.com/plugin/nerdtree-red){:target="_blank"}
 
 To make your life easier, add this line to your .vimrc and after typing vim you can just execute `<ctrl-n>` instead of typing NERDTree.
@@ -59,5 +59,4 @@ changing the mapleader to `,` makes it easy to execute the command. By pressing 
 That's all folks! Just keep on trying as Roy T. Bennett said 
 > "Do not fear failure but rather fear not trying"
 
-[nerdtree]: /assets/nerdtree-vim.png
-
+[nerdtree]: /assets/images/nerdtree-vim.png

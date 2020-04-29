@@ -1,0 +1,43 @@
+<!--===========================-->
+<!--Basic nav from Jekyll-->
+<!--===========================-->
+<!--<nav>-->
+    <!--<a href="/">Home</a>-->
+    <!--<a href="/about.html">About</a>-->
+<!--</nav>-->
+
+
+<!--===========================-->
+<!--Navs from Bootstrap-->
+<!--===========================-->
+<!--<ul class="nav nav-pills justify-content-end">-->
+    <!--{% for item in site.data.navigation %}-->
+    <!--<li class="nav-item">-->
+        <!--<a href="{{ item.link }}" {% if page.url == item.link %} class="nav-link active" {% else %} class="nav-link" {% endif %}>{{ item.name }}</a>-->
+    <!--</li>-->
+    <!--{% endfor %}-->
+<!--</ul>-->
+
+<!--===========================-->
+<!--Navbar from Bootstrap-->
+<!--===========================-->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="/">lynard.me</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarText">
+        <ul class="navbar-nav mr-auto">
+            {% for item in site.data.navigation %}
+                {% if page.url == item.link %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ item.link }}">{{ item.name }}</a>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+</nav>
