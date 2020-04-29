@@ -59,6 +59,6 @@ changing the mapleader to `,` makes it easy to execute the command. By pressing 
 
 
 That's all folks! Just keep on trying as Roy T. Bennett said 
-> "Do not fear failure but rather fear not trying"
+<blockquote class="blockquote">"Do not fear failure but rather fear not trying"</blockquote>
 
 [nerdtree]: /assets/images/nerdtree-vim.png
