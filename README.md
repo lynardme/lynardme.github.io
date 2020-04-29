@@ -1,1 +1,1 @@
-[lynard.me](https://lynard.me){:target="_blank"}
+<a href="http://lynard.me" target="_blank">lynard.me</a>
