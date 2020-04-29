@@ -2,6 +2,8 @@
 layout: "post"
 title: "My VIM Setup"
 date: 2020-04-17
+category: Dev
+tags: [vim, jekyll]
 ---
 
 ![image-title-here](/assets/images/mt-ruapehu-desert-drive.jpg){:class="img-fluid"}
