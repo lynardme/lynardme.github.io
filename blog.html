@@ -2,6 +2,16 @@
 layout: default
 title: blog
 ---
+
+<div class="float-right">
+    <form action="/search.html" method="get">
+        <input type="text" id="search_box" name="query">
+        <input type="submit" value="search">
+    </form>
+</div>
+
+<br>
+
 <h3>Latest posts</h3>
 <ul>
     {% for post in site.posts %}
