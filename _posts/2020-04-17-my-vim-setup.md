@@ -6,21 +6,18 @@ category: dev
 tags: [vim, jekyll]
 ---
 
-![image-title-here](/assets/images/mt-ruapehu-desert-drive.jpg){:class="img-fluid"}
-*Mt. Ruapehu in Desert Road Scenic Drive*  
-
 When I first tried VIM maybe 5 years ago. I taught that I wouldn't able to learn. It's very hard at first memorizing the keystroke using only keyboard. I remember in my last job, I tried to edit a file using VIM and I messed up, fortunately I remember to quit without saving `q!`. Right now, I can say that I am more confident than 5 years ago.
 
 The one thing that I liked VIM is that if you start learning and embrace the beauty on it, you will never stop trying until you will become an expert. I will share with you my personal VIM setup in my machine. 
 
-## The ColorScheme 
+#### The ColorScheme 
 I'm using badwolf because of it's dark UI with distinquish colors. To install, just `git clone https://github.com/sjl/badwolf.git` and put in the ~/.vim/colors folder. Now, edit the .vimrc and add  
 ```
 colorscheme badwolf
 ```
 restart vim and see the changes. See also, sample from [here](http://vimcolors.com/3/badwolf/dark){:target="_blank"}
 
-## The NERDTree
+#### The NERDTree
 The NERDTree is a file system explorer for the VIM. It is plugin that you can install and help you visualize the directory while you are coding. It's like windows explorer. I have been struggling last time when opening a file and switch to another file. It's not only time consuming but also irritating. Feel me? So, I started to find solution in my problem and I found NERDTree. The installation is a little bit confusing at first. 
 
 **There are steps to install NERDTree**
@@ -44,7 +41,7 @@ To make your life easier, add this line to your .vimrc and after typing vim you 
 ```
 map <C-n> :NERDTreeToggle<CR>
 ```
-## The NERDCommenter
+#### The NERDCommenter
 
 From the root word "comment", yeah you heard it right! This is all about commenting your code in a VIM'ish way. The first time I use it I was impressed how it know what kind of comment you are executing. Like, if your code is python it will change the comment symbol to `#` and if you change to html it will use the `<!-- -->` symbol.
 
