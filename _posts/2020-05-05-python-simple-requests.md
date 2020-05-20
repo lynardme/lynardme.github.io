@@ -2,7 +2,7 @@
 layout: "post"
 title: "Python Requests Module"
 date: 2020-05-05
-category: dev
+category: devtips
 tags: [python, requests]
 ---
 

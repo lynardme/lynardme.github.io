@@ -2,7 +2,7 @@
 layout: "post"
 title: "Resizing Tmux"
 date: 2020-05-02
-category: dev
+category: blog
 tags: [tmux,tags]
 ---
 Previously when I wrote Java programs I use eclipse as my IDE. There is a separation of files explorer, the editor and the terminal output at the bottom. It's make your life as a programmer easier. I was happy at that time contended as a Java programmer. But things changed since last 6 years ago. I used different programming language like python, javascript, etc. I'm also comfortable using linux commands and editor called VIM. 

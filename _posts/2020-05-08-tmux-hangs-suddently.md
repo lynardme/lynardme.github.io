@@ -2,7 +2,7 @@
 layout: "post"
 title: "TMUX hangs suddenly"
 date: 2020-05-08
-category: dev
+category: devtips
 tags: [tmux, vim]
 ---
 

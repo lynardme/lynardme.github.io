@@ -2,7 +2,7 @@
 layout: "post"
 title: "My VIM Setup"
 date: 2020-04-17
-category: dev
+category: blog
 tags: [vim, jekyll]
 ---
 

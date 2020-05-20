@@ -2,11 +2,11 @@
 layout: "post"
 title: "TMUX a terminal multiplexer"
 date: 2020-05-03
-category: dev
+category: devtips
 tags: [tmux, linux]
 ---
 
-Yesterday, I wrote the blog [resizing tmux]({{ site.baseurl }}{% post_url 2020-05-02-resizing-tmux %}). Today, I will share more about TMUX and my experiences in this tool. 
+Yesterday, I post [resizing tmux]({{ site.baseurl }}{% post_url 2020-05-02-resizing-tmux %}). Today, I will share more about TMUX and my experiences in this tool. 
 
 TMUX in a nutshell is a terminal multiplexer that you can start a session and open multiple windows inside the session. It's really cool that you need to try it by yourself. 
 

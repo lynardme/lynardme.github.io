@@ -1,6 +1,6 @@
 ---
 layout: default
-title: blog
+title: devtips
 ---
 
 <div class="float-right">
@@ -12,10 +12,10 @@ title: blog
 
 <br>
 
-<h3>Latest Blog</h3>
+<h3>Latest DevTips</h3>
 
 {% for category in site.categories %}
-  {% if category[0] == "blog" %}
+  {% if category[0] == "devtips" %}
       <ul>
         {% for post in category[1] %}
           <li><a href="{{ post.url }}">{{ post.title }}</a></li>

@@ -1,6 +1,11 @@
 ---
-layout: post
+layout: "post"
+title: "Visualizing Data with Bokeh"
+date: 2020-04-27
+category: blog
+tags: [bokeh, jupyter]
 ---
+
 I am always fascinated to learn about data science concept but not yet started to fully understand all the tools and technique to manipulate data. Today, I look again the tutorial about bokeh. [Bokeh](https://bokeh.org) is a visualization library and it's very flexible and powerful tool to visualize data. 
 
 First thing first, install anaconda if you don't have. 

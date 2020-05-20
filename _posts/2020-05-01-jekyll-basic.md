@@ -1,5 +1,9 @@
 ---
-layout: post
+layout: "post"
+title: "Jekyll Basic"
+date: 2020-05-01
+category: blog
+tags: [jekyll]
 ---
 
 When I tried [Jekyll](https://jekyllrb.com/){:target="_blank"} for the first time I was impressed of the simplicity of its structure. The idea of no database involved it makes Jekyll very simple to use. And then, I heard about github pages where you can commit your code like ordinary github codes and from that point you can host your website automatically using the github pages system. 
