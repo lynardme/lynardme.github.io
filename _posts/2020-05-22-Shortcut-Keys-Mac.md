@@ -6,20 +6,22 @@ category: devtips
 tags: [mac, keys]
 ---
 
-##### Mac
-`Ctrl + Command + Q` to lock the screen  
-`Option + Command + M` to minimise current window
-
-
-##### Visual Studio Code
+#### Mac
 ```
-Ctrl + ` to focus to terminal
+lock the screen         control + command + Q
+minimise window         option + command + Q
+force quit app          option + command + esc
 ```
-`Ctrl + 1` to focus to editor
 
-##### VIM
-`control + D` Down 1/2 screens  
-`control + U` Up 1/2 screens
+#### Visual Studio Code
+```
+focus to terminal       control + `
+focus to editor         control + 1
+install packages        shift + command + P
+```
 
-
-
+#### VIM
+```
+down 1/2 screen         control + D
+up 1/2 screen           control + U
+```
