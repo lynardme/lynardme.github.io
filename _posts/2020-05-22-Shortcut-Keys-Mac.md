@@ -6,7 +6,9 @@ category: devtips
 tags: [mac, keys]
 ---
 
-`Ctrl + Command + Q` to lock the screen
+##### Mac
+`Ctrl + Command + Q` to lock the screen  
+`Option + Command + M` to minimise current window
 
 
 ##### Visual Studio Code
@@ -14,5 +16,10 @@ tags: [mac, keys]
 Ctrl + ` to focus to terminal
 ```
 `Ctrl + 1` to focus to editor
+
+##### VIM
+`control + D` Down 1/2 screens  
+`control + U` Up 1/2 screens
+
 
 
