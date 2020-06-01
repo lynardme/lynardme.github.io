@@ -18,6 +18,8 @@ force quit app          option + command + esc
 focus to terminal       control + `
 focus to editor         control + 1
 install packages        shift + command + P
+show settings           command + ,
+format prettier         shift + option + F
 ```
 
 #### VIM
