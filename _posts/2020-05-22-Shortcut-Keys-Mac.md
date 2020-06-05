@@ -11,6 +11,7 @@ tags: [mac, keys]
 lock the screen         control + command + Q
 minimise window         option + command + Q
 force quit app          option + command + esc
+screenshot              shift + command + 4
 ```
 
 #### Visual Studio Code
@@ -20,6 +21,8 @@ focus to editor         control + 1
 install packages        shift + command + P
 show settings           command + ,
 format prettier         shift + option + F
+switch working files    control + tab
+switch window           command + `
 ```
 
 #### VIM
