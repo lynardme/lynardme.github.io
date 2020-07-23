@@ -8,7 +8,11 @@ tags: [google cloud, gcloud]
 
 ```
 gcloud projects list
-gcloud config set project <project-id>                      switch project
+gcloud config set project <project-id>          : switch project
+gcloud config get-value project                 : get the current project name
+
+gcloud compute ssh myinstance                   : ssh to compute engine vm
+gcloud compute instances list                   : to check instances running
 ```
 
 [Documentation](https://cloud.google.com/docs){:target="_blank"}  
