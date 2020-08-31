@@ -2,8 +2,12 @@
   link: /
 - name: Blog
   link: /blog.html
+- name: Reference
+  link: /reference.html
 - name: DevTips
   link: /devtips.html
+#- name: Study
+#  link: /study.html
 - name: About
   link: /about.html
 #- name: Staff
