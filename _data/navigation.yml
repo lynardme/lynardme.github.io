@@ -8,6 +8,8 @@
   link: /devtips.html
 #- name: Study
 #  link: /study.html
+- name: Learning
+  link: /learning.html
 - name: About
   link: /about.html
 #- name: Staff
