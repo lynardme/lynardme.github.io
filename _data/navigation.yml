@@ -8,8 +8,10 @@
   link: /devtips.html
 #- name: Study
 #  link: /study.html
-- name: Learning
-  link: /learning.html
+- name: Academic
+  link: /academic.html
+- name: Resources
+  link: /resources.html
 - name: About
   link: /about.html
 #- name: Staff

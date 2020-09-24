@@ -1,0 +1,25 @@
+---
+layout: default
+title: academic
+---
+
+<div class="float-right">
+    <form action="/search.html" method="get">
+        <input type="text" id="search_box" name="query">
+        <input type="submit" value="search">
+    </form>
+</div>
+
+<br>
+
+<h3>Latest Academic</h3>
+
+{% for category in site.categories %}
+  {% if category[0] == "academic" %}
+      <ul>
+        {% for post in category[1] %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+  {% endif %}
+{% endfor %}
