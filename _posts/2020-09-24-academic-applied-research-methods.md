@@ -11,3 +11,5 @@ tags: [courses]
 [Types of sampling methods](http://www.intellspot.com/types-sampling-methods/){:target="_blank"} different types of sampling methods and techniques in research methodology and statistics  
 [Data Analysis and Methods](https://www.utreee.com/what-is-data-analysis-and-its-methods%EF%BB%BF/){:target="_blank"}  Kind of Data Analysis for qualitative and quantitative   
 [Qualitative and Quantative Data Analysis Methods](https://humansofdata.atlan.com/2018/09/qualitative-quantitative-data-analysis-methods/){:target="_blank"} Another example for data analysis methods  
+### Sampling Methods
+[Purposive sampling](https://www.youtube.com/watch?v=CdK7N_kTzHI){:target="_blank"}  
