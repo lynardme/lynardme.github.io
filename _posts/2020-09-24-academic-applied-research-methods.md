@@ -13,3 +13,5 @@ tags: [courses]
 [Qualitative and Quantative Data Analysis Methods](https://humansofdata.atlan.com/2018/09/qualitative-quantitative-data-analysis-methods/){:target="_blank"} Another example for data analysis methods  
 ### Sampling Methods
 [Purposive sampling](https://www.youtube.com/watch?v=CdK7N_kTzHI){:target="_blank"}  
+[Quota sampling](https://www.youtube.com/watch?v=TwpvO52CTP8){:target="_blank"}   
+[Convenience sampling](https://www.youtube.com/watch?v=aomNbRO5Zac){:target="_blank"}   
