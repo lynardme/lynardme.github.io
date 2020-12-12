@@ -1,1 +1,3 @@
-<a href="http://lynard.me" target="_blank">lynard.me</a>
+### To run locally
+
+jekyll serve
