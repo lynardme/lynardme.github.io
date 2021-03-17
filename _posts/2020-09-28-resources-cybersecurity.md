@@ -12,10 +12,11 @@ A curated list of amazingly awesome tools and resources related to cyber securit
 
 ## Table of Contents
 
-- [Standard and Frameworks](#-standard and frameworks)
+- [Standard and Frameworks](#-standard-and-frameworks)
 - [Tools](#-tools)
-- [Security Awareness](#-security awareness)
-- [Education, Skills and Competencies](#-Education)
+- [Security Awareness](#-security-awareness)
+- [Education, Skills and Competencies](#-education)
+- [Security Policies](#-security-policies)
 
 ## [↑](#table-of-contents) Standard and Frameworks
 
@@ -48,3 +49,7 @@ A curated list of amazingly awesome tools and resources related to cyber securit
 - [Skills Framework for the Information Age (SFIA)](https://sfia-online.org/en){:target="\_blank"}
 - [SFIA Overview](https://www.youtube.com/watch?v=6io-T8NMhJw){:target="\_blank"}
 - [SFIA 7 Framework](https://eitonline.eit.ac.nz/pluginfile.php/2878778/mod_resource/content/1/sfisref.7.20200511.en.pdf){:target="\_blank"}
+
+## [↑](#table-of-contents) Security Policies
+
+- [How to create an Information Security Policy - including best practice example](https://www.youtube.com/watch?v=bsNzeJjFaAo){:target="\_blank"}
