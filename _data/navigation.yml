@@ -10,9 +10,9 @@
 #  link: /study.html
 - name: Academic
   link: /academic.html
-# - name: Resources
-#   link: /resources.html
+- name: Resources
+  link: /resources.html
 - name: About
   link: /about.html
 #- name: Staff
-  #link: /staff.html
+#link: /staff.html
