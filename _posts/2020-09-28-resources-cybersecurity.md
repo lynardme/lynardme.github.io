@@ -53,3 +53,4 @@ A curated list of amazingly awesome tools and resources related to cyber securit
 ## [↑](#table-of-contents) Security Policies
 
 - [How to create an Information Security Policy - including best practice example](https://www.youtube.com/watch?v=bsNzeJjFaAo){:target="\_blank"}
+- [42 Information Security Policy Templates [Cyber Security]](https://templatelab.com/security-policy-templates/){:target="\_blank"}
