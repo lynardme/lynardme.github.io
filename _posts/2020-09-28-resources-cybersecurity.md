@@ -20,6 +20,9 @@ A curated list of amazingly awesome tools and resources related to cyber securit
 ## [↑](#table-of-contents) Standard and Frameworks
 
 - [New Zealand Information Security Manual (NZISM)](https://www.nzism.gcsb.govt.nz/){:target="\_blank"}
+- [National Institute for Standards and Technology (NIST)](https://www.nist.gov/){:target="\_blank"}
+- [Information Security Handbook: A Guide for Managers](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-100.pdf){:target="\_blank"}
+- [NIST RISK MANAGEMENT FRAMEWORK](https://csrc.nist.gov/csrc/media/projects/risk-management/documents/select/select_roles-and-responsibilities-step2.pdf){:target="\_blank"}
 
 ## [↑](#table-of-contents) Tools
 
