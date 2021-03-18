@@ -17,6 +17,7 @@ A curated list of amazingly awesome tools and resources related to cyber securit
 - [Security Awareness](#-security-awareness)
 - [Education, Skills and Competencies](#-education)
 - [Security Policies](#-security-policies)
+- [Roles and Responsibilities](#-Roles-and-Responsibilities)
 
 ## [↑](#table-of-contents) Standard and Frameworks
 
@@ -54,3 +55,9 @@ A curated list of amazingly awesome tools and resources related to cyber securit
 
 - [How to create an Information Security Policy - including best practice example](https://www.youtube.com/watch?v=bsNzeJjFaAo){:target="\_blank"}
 - [42 Information Security Policy Templates [Cyber Security]](https://templatelab.com/security-policy-templates/){:target="\_blank"}
+
+## [↑](#table-of-contents) Roles and Responsibilities
+
+- [Common IT Security Roles and Responsibilities Explained](https://spinbackup.com/blog/it-security-roles-and-responsibilities/){:target="\_blank"}
+- [Determining the duties and responsibilities of an IT Security Team](https://www.greycampus.com/blog/information-security/determining-the-duties-and-responsibilities-of-an-it-security-team){:target="\_blank"}
+- [Get Aware From Information Security Team Roles and Responsibilities](https://www.systoolsgroup.com/updates/information-security-team-roles-responsibilities/){:target="\_blank"}
