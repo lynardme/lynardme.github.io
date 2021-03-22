@@ -15,6 +15,7 @@ A curated list of amazingly awesome tools and resources related to digital marke
 - [Introduction](#-introduction)
 - [Digital Products and Services](#-digital-products-and-services)
 - [Customer Relationship Management](#-customer-relationship-management)
+- [Marketing Campaign Examples](#-marketing-campaign-examples)
 
 ## [↑](#table-of-contents) Introduction
 
@@ -41,3 +42,7 @@ A curated list of amazingly awesome tools and resources related to digital marke
 - [Best Global Brands 2020](https://learn.interbrand.com/hubfs/INTERBRAND/Interbrand_Best_Global_Brands%202020%20Desktop.pdf){:target="\_blank"}
 - [Brand profiles](https://www.trb.co.nz/brand-profiles){:target="\_blank"}
 - [What Is A/B Testing?](https://www.optimizely.com/anz/optimization-glossary/ab-testing/){:target="\_blank"}
+
+## [↑](#table-of-contents) Marketing Campaign Examples
+
+- [6+ Digital Marketing Campaign Examples in PDF](https://www.examples.com/education/marketing-education/digital-marketing-campaign.html#1_sample_digital_marketing_campaign_example){:target="\_blank"}
