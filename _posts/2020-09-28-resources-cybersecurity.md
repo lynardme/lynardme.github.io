@@ -17,12 +17,15 @@ A curated list of amazingly awesome tools and resources related to cyber securit
 - [Security Awareness](#-security-awareness)
 - [Education, Skills and Competencies](#-education)
 - [Security Policies](#-security-policies)
-- [Roles and Responsibilities](#-Roles-and-Responsibilities)
+- [Roles and Responsibilities](#-roles-and-responsibilities)
+- [Useful Sites](#-useful-sites)
 
 ## [↑](#table-of-contents) Standard and Frameworks
 
 - [New Zealand Information Security Manual (NZISM)](https://www.nzism.gcsb.govt.nz/){:target="\_blank"}
+- [Australian Government Information Security Manual (ISM)](https://www.cyber.gov.au/acsc/view-all-content/advice/using-australian-government-information-security-manual){:target="\_blank"}
 - [National Institute for Standards and Technology (NIST)](https://www.nist.gov/){:target="\_blank"}
+- [General Data Protection Regulation (GDPR)](https://gdpr.eu/tag/gdpr/){:target="\_blank"}
 - [Information Security Handbook: A Guide for Managers](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-100.pdf){:target="\_blank"}
 - [NIST risk management framework](https://csrc.nist.gov/csrc/media/projects/risk-management/documents/select/select_roles-and-responsibilities-step2.pdf){:target="\_blank"}
 - [Special publication 800-12: an introduction to computer security: the NIST handbook](https://csrc.nist.rip/publications/nistpubs/800-12/800-12-html/chapter3.html){:target="\_blank"}
@@ -61,3 +64,7 @@ A curated list of amazingly awesome tools and resources related to cyber securit
 - [Common IT Security Roles and Responsibilities Explained](https://spinbackup.com/blog/it-security-roles-and-responsibilities/){:target="\_blank"}
 - [Determining the duties and responsibilities of an IT Security Team](https://www.greycampus.com/blog/information-security/determining-the-duties-and-responsibilities-of-an-it-security-team){:target="\_blank"}
 - [Get Aware From Information Security Team Roles and Responsibilities](https://www.systoolsgroup.com/updates/information-security-team-roles-responsibilities/){:target="\_blank"}
+
+## [↑](#table-of-contents) Useful Sites
+
+- [The latest cyber security resources, news and updates (purplesec)](https://purplesec.us/){:target="\_blank"}
