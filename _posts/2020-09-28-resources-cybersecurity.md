@@ -18,6 +18,7 @@ A curated list of amazingly awesome tools and resources related to cyber securit
 - [Education, Skills and Competencies](#-education)
 - [Security Policies](#-security-policies)
 - [Roles and Responsibilities](#-roles-and-responsibilities)
+- [Risk Management and Control Strategy](#risk-management-and-control-strategy)
 - [Useful Sites](#-useful-sites)
 
 ## [↑](#table-of-contents) Standard and Frameworks
@@ -46,6 +47,7 @@ A curated list of amazingly awesome tools and resources related to cyber securit
 - [Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/){:target="\_blank"}
 - [Juice Shop](https://owasp.org/www-project-juice-shop/){:target="\_blank"}
 - [Zed Attack Proxy](https://owasp.org/www-project-zap/){:target="\_blank"}
+- [(Video) Cyber Security Awareness Training For Employees (FULL Version)](https://www.youtube.com/watch?v=wygwHXYj_TI){:target="\_blank"}
 
 ## [↑](#table-of-contents) Education
 
@@ -68,3 +70,7 @@ A curated list of amazingly awesome tools and resources related to cyber securit
 ## [↑](#table-of-contents) Useful Sites
 
 - [The latest cyber security resources, news and updates (purplesec)](https://purplesec.us/){:target="\_blank"}
+
+## [↑](#table-of-contents) Risk Management and Control Strategy
+
+- [A beginners guide to cyber security risk management](https://www.youtube.com/watch?v=C_tq0ox_UKc){:target="\_blank"}

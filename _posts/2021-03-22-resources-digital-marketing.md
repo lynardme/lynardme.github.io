@@ -13,15 +13,22 @@ A curated list of amazingly awesome tools and resources related to digital marke
 ## Table of Contents
 
 - [Introduction](#-introduction)
+- [Content Marketing Strategies](#-content-marketing-strategies)
 - [Digital Products and Services](#-digital-products-and-services)
 - [Customer Relationship Management](#-customer-relationship-management)
 - [Marketing Campaign Examples](#-marketing-campaign-examples)
+- [Marketing Goals](#-marketing-goals)
+- [Digital Marketing Plan](#-digital-marketing-plan)
 
 ## [↑](#table-of-contents) Introduction
 
 - [7 Things About Digital Marketing Everyone Should Know](https://www.forbes.com/sites/ajagrawal/2016/01/21/7-things-about-digital-marketing-everyone-should-know/?sh=78b541bf35b2){:target="\_blank"}
 - [What is Digital Marketing: Tutorial for Beginners](https://www.youtube.com/watch?v=XDpwDwcXGoU){:target="\_blank"}
 - [What’s In A Digital Marketing Strategy?](https://www.forbes.com/sites/matzucker/2019/11/14/whats-in-a-digital-marketing-strategy/?sh=67f69d1268b2){:target="\_blank"}
+
+## [↑](#table-of-contents) Content Marketing Strategies
+
+- [Intro to content marketing](https://www.youtube.com/watch?v=LoF9gBo538o){:target="\_blank"}
 
 ## [↑](#table-of-contents) Digital Products and Services
 
@@ -46,3 +53,15 @@ A curated list of amazingly awesome tools and resources related to digital marke
 ## [↑](#table-of-contents) Marketing Campaign Examples
 
 - [6+ Digital Marketing Campaign Examples in PDF](https://www.examples.com/education/marketing-education/digital-marketing-campaign.html#1_sample_digital_marketing_campaign_example){:target="\_blank"}
+
+## [↑](#table-of-contents) Marketing Goals
+
+- [[Video] What is a Lead and How To Generate Leads](https://youtube.com/watch?v=ceqhkXrcJGE){:target="\_blank"}
+- [The 5 Goals to Consider When Creating a Marketing Strategy](https://blog.hubspot.com/marketing/goals-of-marketing){:target="\_blank"}
+
+## [↑](#table-of-contents) Digital Marketing Plan
+
+- [[Video] What is Inbound Marketing?](https://www.youtube.com/watch?v=R0UWvdyABFo){:target="\_blank"}
+- [[Video] What Is Inbound Marketing Explained!](https://www.youtube.com/watch?v=mpWEeiRTbl8){:target="\_blank"}
+- [[Video] Business Strategy: What is Inbound?](https://www.youtube.com/watch?v=H1UTA5ckoJ0){:target="\_blank"}
+- [[Video] What is Inbound Marketing (Fundamentals)](https://www.youtube.com/watch?v=aPW8URBFe8o){:target="\_blank"}
