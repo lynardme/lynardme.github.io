@@ -30,6 +30,8 @@ A curated list of amazingly awesome tools and resources related to cyber securit
 - [Information Security Handbook: A Guide for Managers](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-100.pdf){:target="\_blank"}
 - [NIST risk management framework](https://csrc.nist.gov/csrc/media/projects/risk-management/documents/select/select_roles-and-responsibilities-step2.pdf){:target="\_blank"}
 - [Special publication 800-12: an introduction to computer security: the NIST handbook](https://csrc.nist.rip/publications/nistpubs/800-12/800-12-html/chapter3.html){:target="\_blank"}
+- [What is the NIST CSF](https://reciprocitylabs.com/resources/what-is-the-nist-csf/){:target="\_blank"}
+- [23 Top Cybersecurity Frameworks](https://cyberexperts.com/cybersecurity-frameworks/){:target="\_blank"}
 
 ## [↑](#table-of-contents) Tools
 
@@ -74,3 +76,9 @@ A curated list of amazingly awesome tools and resources related to cyber securit
 ## [↑](#table-of-contents) Risk Management and Control Strategy
 
 - [A beginners guide to cyber security risk management](https://www.youtube.com/watch?v=C_tq0ox_UKc){:target="\_blank"}
+- [9 Steps for effective cybersecurity risk management](https://blog.eccouncil.org/9-steps-for-effective-cybersecurity-risk-management/){:target="\_blank"}
+- [Cybersecurity Risk Management: Finding and Fixing Your Security Vulnerabilities](https://www.esecurityplanet.com/networks/cybersecurity-risk-management-finding-and-fixing-your-security-vulnerabilities/){:target="\_blank"}
+- [How to Build a Cybersecurity Risk Management Framework](https://www.boardeffect.com/blog/cybersecurity-risk-management-framework/){:target="\_blank"}
+- [6 Steps to a Cybersecurity Risk Assessment](https://www.tylercybersecurity.com/blog/6-steps-to-a-cybersecurity-risk-assessment){:target="\_blank"}
+- [Cyber Risk Management Service](https://www.itgovernance.co.uk/cyber-security-risk-management){:target="\_blank"}
+- [15 Considerations for Cybersecurity Risk Management](https://www.upguard.com/blog/cybersecurity-risk-management){:target="\_blank"}
