@@ -18,10 +18,10 @@ A curated list of amazingly awesome tools and resources related to cyber securit
 - [Education, Skills and Competencies](#-education)
 - [Security Policies](#-security-policies)
 - [Roles and Responsibilities](#-roles-and-responsibilities)
-- [Risk Management and Control Strategy](#risk-management-and-control-strategy)
+- [Risk Management and Control Strategy](#-risk-management-and-control-strategy)
 - [Useful Sites](#-useful-sites)
 
-## [↑](#table-of-contents) Standard and Frameworks
+### [↑](#table-of-contents) Standard and Frameworks
 
 - [New Zealand Information Security Manual (NZISM)](https://www.nzism.gcsb.govt.nz/){:target="\_blank"}
 - [Australian Government Information Security Manual (ISM)](https://www.cyber.gov.au/acsc/view-all-content/advice/using-australian-government-information-security-manual){:target="\_blank"}
@@ -33,13 +33,13 @@ A curated list of amazingly awesome tools and resources related to cyber securit
 - [What is the NIST CSF](https://reciprocitylabs.com/resources/what-is-the-nist-csf/){:target="\_blank"}
 - [23 Top Cybersecurity Frameworks](https://cyberexperts.com/cybersecurity-frameworks/){:target="\_blank"}
 
-## [↑](#table-of-contents) Tools
+### [↑](#table-of-contents) Tools
 
 - [Expel NIST-CSF Self Scoring ToolFile](https://expel.io/blog/how-to-get-started-with-the-nist-cybersecurity-framework-csf/){:target="\_blank"}
 - Watkins NIST-CSF Tool
 - COSO Framework and ToolFile
 
-## [↑](#table-of-contents) Security Awareness
+### [↑](#table-of-contents) Security Awareness
 
 - [The Dark Arts of Social Engineering](https://www.youtube.com/watch?v=FvhkKwHjUVg){:target="\_blank"}
 - [Detecting and Defending Social Engineering Attacks](https://www.youtube.com/watch?v=IQL8kaBReDQ&t=20s){:target="\_blank"}
@@ -51,29 +51,30 @@ A curated list of amazingly awesome tools and resources related to cyber securit
 - [Zed Attack Proxy](https://owasp.org/www-project-zap/){:target="\_blank"}
 - [(Video) Cyber Security Awareness Training For Employees (FULL Version)](https://www.youtube.com/watch?v=wygwHXYj_TI){:target="\_blank"}
 
-## [↑](#table-of-contents) Education
+### [↑](#table-of-contents) Education
 
 - [NICE Cybersecurity Workforce Framework: Close your skills gap with role-based training](https://www.youtube.com/watch?v=ZW__T7PIHr4){:target="\_blank"}
 - [Skills Framework for the Information Age (SFIA)](https://sfia-online.org/en){:target="\_blank"}
 - [SFIA Overview](https://www.youtube.com/watch?v=6io-T8NMhJw){:target="\_blank"}
 - [SFIA 7 Framework](https://eitonline.eit.ac.nz/pluginfile.php/2878778/mod_resource/content/1/sfisref.7.20200511.en.pdf){:target="\_blank"}
 
-## [↑](#table-of-contents) Security Policies
+### [↑](#table-of-contents) Security Policies
 
 - [How to create an Information Security Policy - including best practice example](https://www.youtube.com/watch?v=bsNzeJjFaAo){:target="\_blank"}
 - [42 Information Security Policy Templates [Cyber Security]](https://templatelab.com/security-policy-templates/){:target="\_blank"}
 
-## [↑](#table-of-contents) Roles and Responsibilities
+### [↑](#table-of-contents) Roles and Responsibilities
 
 - [Common IT Security Roles and Responsibilities Explained](https://spinbackup.com/blog/it-security-roles-and-responsibilities/){:target="\_blank"}
 - [Determining the duties and responsibilities of an IT Security Team](https://www.greycampus.com/blog/information-security/determining-the-duties-and-responsibilities-of-an-it-security-team){:target="\_blank"}
 - [Get Aware From Information Security Team Roles and Responsibilities](https://www.systoolsgroup.com/updates/information-security-team-roles-responsibilities/){:target="\_blank"}
+- [Cyber security: why responsibility should also fall on risk officers](https://www.kordia.co.nz/news-and-views/cyber-security-why-responsibility-should-also-fall-on-risk-officers?utm_term=&utm_campaign=%5BPSEO%5D+-+Dynamic+Search+Ads+-+Kordia&utm_source=adwords&utm_medium=ppc&hsa_acc=8079900217&hsa_cam=6470399735&hsa_grp=77025009025&hsa_ad=380061645568&hsa_src=g&hsa_tgt=dsa-397031600142&hsa_kw=&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw3pWDBhB3EiwAV1c5rObwKCtq_v4VgxBO5af0ekhrp9PNvlb5cTjAnbrtN2pa3at6stBGERoCCP8QAvD_BwE){:target="\_blank"}
 
-## [↑](#table-of-contents) Useful Sites
+### [↑](#table-of-contents) Useful Sites
 
 - [The latest cyber security resources, news and updates (purplesec)](https://purplesec.us/){:target="\_blank"}
 
-## [↑](#table-of-contents) Risk Management and Control Strategy
+### [↑](#table-of-contents) Risk Management and Control Strategy
 
 - [A beginners guide to cyber security risk management](https://www.youtube.com/watch?v=C_tq0ox_UKc){:target="\_blank"}
 - [9 Steps for effective cybersecurity risk management](https://blog.eccouncil.org/9-steps-for-effective-cybersecurity-risk-management/){:target="\_blank"}
